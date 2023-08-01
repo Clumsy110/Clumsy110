@@ -1,3 +1,5 @@
+# **_Teilnahmebedingungen der “Langen Nacht des Coding” (#LNDC)_**
+
 **1. Die Veranstalter**
 
 Die „Lange Nacht des Coding“ ist eine Hackathon-Veranstaltung von regional ansässigen Unternehmen in Kooperation mit der Westsächsische Hochschule Zwickau (WHZ).
