@@ -1,6 +1,6 @@
 # _Impressum_
 
-#**GK SOFTWARE SE**
+# **GK SOFTWARE SE**
 
 
 Waldstraße 7
