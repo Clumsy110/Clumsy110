@@ -1,4 +1,4 @@
-# **_Organisatoren & Sponsoren_**
+### **_Organisatoren & Sponsoren_**
 
 
 In Kooperation mit der Westsächsischen Hochschule Zwickau (WHZ) wird die Lange Nacht des Coding (#LNDC) von folgenden Unternehmen organisiert:
